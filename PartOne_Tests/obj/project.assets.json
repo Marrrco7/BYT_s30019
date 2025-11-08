@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcodomenico/Desktop/BYT_s30019/Tut2_s20123_Tests/Tut2_s20123_Tests.csproj",
-      "projectName": "Tut2_s20123_Tests",
-      "projectPath": "/Users/marcodomenico/Desktop/BYT_s30019/Tut2_s20123_Tests/Tut2_s20123_Tests.csproj",
+      "projectUniqueName": "/Users/marcodomenico/Desktop/BYT_s30019/PartOne_Tests/PartOne_Tests.csproj",
+      "projectName": "PartOne_Tests",
+      "projectPath": "/Users/marcodomenico/Desktop/BYT_s30019/PartOne_Tests/PartOne_Tests.csproj",
       "packagesPath": "/Users/marcodomenico/.nuget/packages/",
-      "outputPath": "/Users/marcodomenico/Desktop/BYT_s30019/Tut2_s20123_Tests/obj/",
+      "outputPath": "/Users/marcodomenico/Desktop/BYT_s30019/PartOne_Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marcodomenico/.nuget/NuGet/NuGet.Config"

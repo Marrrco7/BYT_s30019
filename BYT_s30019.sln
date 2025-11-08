@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut2_s20123", "Tut2_s20123\Tut2_s20123.csproj", "{AA2B8379-FECA-4F7F-BD50-4918262573B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartOne", "PartOne\PartOne.csproj", "{AA2B8379-FECA-4F7F-BD50-4918262573B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut2_s20123_Tests", "Tut2_s20123_Tests\Tut2_s20123_Tests.csproj", "{54B566AD-B4C9-493B-90FB-6DDCC7FCE9C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartOne_Tests", "PartOne_Tests\PartOne_Tests.csproj", "{54B566AD-B4C9-493B-90FB-6DDCC7FCE9C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
