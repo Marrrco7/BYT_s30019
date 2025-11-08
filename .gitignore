@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+.idea.*
+*.sln.DotSettings.user
+*.DotSettings.user
+
+# VS / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build / test output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet / tooling
+packages/
+*.nupkg
+project.lock.json
+_ReSharper*/
+*.ReSharper*/
+*.DotCover
+*.ncrunch*
+*.vshost.*
+
+# Misc
+*.tmp
+*.bak
+*.swp
+*.orig
