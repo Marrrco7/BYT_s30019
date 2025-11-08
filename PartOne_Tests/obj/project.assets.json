@@ -347,14 +347,14 @@
           }
         }
       },
-      "Tut2_s20123/1.0.0": {
+      "PartOne/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/Tut2_s20123.dll": {}
+          "bin/placeholder/PartOne.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Tut2_s20123.dll": {}
+          "bin/placeholder/PartOne.dll": {}
         }
       }
     }
@@ -804,10 +804,10 @@
         "version.txt"
       ]
     },
-    "Tut2_s20123/1.0.0": {
+    "PartOne/1.0.0": {
       "type": "project",
-      "path": "../Tut2_s20123/Tut2_s20123.csproj",
-      "msbuildProject": "../Tut2_s20123/Tut2_s20123.csproj"
+      "path": "../PartOne/PartOne.csproj",
+      "msbuildProject": "../PartOne/PartOne.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -816,7 +816,7 @@
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
       "NUnit3TestAdapter >= 4.6.0",
-      "Tut2_s20123 >= 1.0.0",
+      "PartOne >= 1.0.0",
       "coverlet.collector >= 6.0.2"
     ]
   },
@@ -845,8 +845,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/marcodomenico/Desktop/BYT_s30019/Tut2_s20123/Tut2_s20123.csproj": {
-              "projectPath": "/Users/marcodomenico/Desktop/BYT_s30019/Tut2_s20123/Tut2_s20123.csproj"
+            "/Users/marcodomenico/Desktop/BYT_s30019/PartOne/PartOne.csproj": {
+              "projectPath": "/Users/marcodomenico/Desktop/BYT_s30019/PartOne/PartOne.csproj"
             }
           }
         }
